@@ -3,7 +3,7 @@
 # Organic overview
 <b> Project Name:
 #Organic overview
-## sub-heading Organic food finder
+##  Organic food finder
 Project Summary: It is a mobile / web application that allows you to find organic foods of your choice at reasonable prices. 
 Development Model: Incremental model 
 Duration: 6 months 
