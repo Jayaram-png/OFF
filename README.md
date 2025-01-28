@@ -8,7 +8,7 @@
 Functionalities: 5
 
 ### Team Members: 
-<p> Venkata Jaya Rami ReddyBogasamudram </p>
+<p> Venkata Jaya Rami Reddy Bogasamudram </p>
 <p> Armili Paturi</p>
 <p> Yesu Rakshana </p>
 <p> Manogna Narishetty </p>
