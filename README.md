@@ -1,19 +1,15 @@
-# OFF
+@@ -1 +1,14 @@
+# Project Title: Organic-Overview
 
-# Organic overview
-<b> Project Name:
-#Organic overview
-##  Organic food finder
-Project Summary: It is a mobile / web application that allows you to find organic foods of your choice at reasonable prices. 
-Development Model: Incremental model 
-Duration: 6 months 
-Functionality 
-1.	Navigation: It will show you the locations of the stores within a specified radius along with the directions.
-2.	Provides the Nutritional values and calorie intake of each food item
-3.	Personalized Meal and Diet Plans
-4.	Based on the mode of travel, walking will also show you the number of calories you burn. 
-5.	For a subscription, Delivery is made available
+<b>Summary</b>: Organic food finder. It is a mobile and web application that allows you to find organic foods of your choice at reasonable prices.
 
+<b>Development Model</b>: Incremental Model <br>
+<b>Duration</b>: 6 Months <br><br>
+Functionalities: 5
 
-![image](https://github.com/user-attachments/assets/b21f009c-711f-49dd-9ddc-8ee813b172e1)
-:</b>
+### Team Members: 
+<p> Venkata Jaya Rami ReddyBogasamudram </p>
+<p> Armili Paturi</p>
+<p> Yesu Rakshana </p>
+<p> Manogna Narishetty </p>
+<p> Rohit Bandameedi </p>
